@@ -1,4 +1,4 @@
-Welcome to the AWS CodeStar sample web service
+Welcome to the AWS CodeStar sample web service By Nikhil NK
 ==============================================
 
 This sample code helps get you started with a simple Python web service using
@@ -84,6 +84,8 @@ Forum: https://forums.aws.amazon.com/forum.jspa?forumID=248
 
 What Should I Do Before Running My Project in Production?
 ------------------
+
+Added new line here
 
 AWS recommends you review the security best practices recommended by the framework
 author of your selected sample application before running it in production. You
